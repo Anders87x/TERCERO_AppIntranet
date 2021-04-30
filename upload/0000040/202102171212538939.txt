@@ -1,0 +1,441 @@
+Verificar codigo JavaScript
+http://jslint.com/
+
+
+NOVA
+Minton - Vue Nuxt Admin & Dashboard Template
+VueJS Laravel Admin Template 
+Materialize Admin
+https://www.youtube.com/watch?v=XaP-uRfBBdY
+VA
+Vuexy - Vuejs, React, HTML & Laravel Admin Dashboard Template
+https://themeforest.net/item/vuexy-vuejs-html-laravel-admin-dashboard-template/23328599
+
+INTERESANTE WEN RH
+https://smarthr.dreamguystech.com/smarthr-laravel/smarthr-orange/public/index
+https://fullxxxmovies.me/
+Synthia Fixx Ryan Conner Brooke banner Janine Lindemulder
+800164937
+
+TANIA:
+https://www.facebook.com/pg/MascarponeOriginale/photos/?ref=page_internal
+https://paletasdecolores.com/paleta-de-colores-821/
+
+Instagram
+tasavarperu@gmail.com
+Taniaj.2208
+
+Facebook
+tasavarpe@gmail.com
+Taniaj.2208
+cel: +51 936 602 865
+
+taniaj.santosv@gmail.com
+
+TEMPLATE TANIA:
+https://demo.w3layouts.com/demos_new/template_demo/17-12-2019/fashion_trendz-demo_Free/1190559958/web/index.html#contact
+https://www.40defiebre.com/medidas-imagenes-redes-sociales
+
+Para comprar mas adelante
+https://creativemarket.com/eviory/2846878-ANIMATED-Instagram-Watercolor-Story#fullscreen
+
+Para revisar anuncios Facebook
+https://www.facebook.com/business/help/388369961318508?id=1240182842783684
+
+
+Baño:
+https://engineeringdiscoveries.com/best-information-about-bathroom-size-and-space-arrangement/ce70b0bc2fded160a3fb0b326cfc3189/
+https://modaenpasarela.com/como-disenar-un-bano-ideas-funcionalidad-y-decoracion/
+
+
+https://www.youtube.com/watch?v=6Qshm95ha5w
+
+En un solo archivo
+
+https://mega.nz/folder/sPh01JoQ#YdlO9m_kbNnu6A-W_tIcjg
+
+Baño
+https://www.arrevol.com/blog/como-dimensionar-correctamente-un-bano-distribuciones-para-banos-y-aseos
+
+
+https://cej.pj.gob.pe/cej/forms/busquedaform.html
+04839-2016-0-1801-JR-LA-71
+
+
+https://www.hcltransporte.com/
+https://remisesuniversal.com/
+https://www.teletrans.com/es/
+https://safeconfidence.com.mx/
+
+https://www.istockphoto.com
+https://www.freepik.es/
+https://pixabay.com
+
+Gratis
+https://www.pexels.com/es-es/
+https://es.freeimages.com/
+https://burst.shopify.com/
+
+Web templates
+https://w3layouts.com/smart-shop-ecommerce-category-flat-bootstrap-responsive-web-template/
+https://p.w3layouts.com/demos/21-03-2016/best_store/web/
+
+https://www.ionos.es/digitalguide/correo-electronico/e-mail-marketing/escribir-correos-electronicos-como-dar-la-talla/
+https://www.youtube.com/watch?v=Qvo5SeAwz88
+
+Cocina
+https://www.cotemaison.fr/cuisine/diaporama/plan-cuisine-gratuit-20-plans-de-cuisine-de-1-m2-a-32-m2_7750.html#photo-15
+
+
+https://robloxlist.com/roblox-music-codes
+sysdevkalipso.com/uploads/documentos/CD_Kalipso_5.0.0.zip
+
+https://spanish.alibaba.com/product-detail/custom-printable-white-rfid-cards-iso-125khz-proximity-id-card-60842724209.html?spm=a2700.galleryofferlist.0.0.47144ac6u75UdV
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="Biometría, Tiempo y Asistencia, Control de Acceso, Cerraduras Inteligentes, Seguridad, Inspección de Vehículos, Terminales Punto de Venta" />
+	<meta name="description" content="ZKTeco ha introducido un gran número de iniciativas, soluciones tecnológicas e innovaciones de seguridad biométrica." />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+
+
+
+SET XACT_ABORT ON
+
+https://riptutorial.com/es/ebook
+https://laraveles.com/series/creando-un-sistema-crud-con-vue-y-laravel/
+
+
+DNI: 44345532	MARISELA YULISA	ANTUNEZ HUERTA
+C.E.: 001145238	MAURICIO ALEJANDRO	GARCES AGUIRRE
+
+Seeders
+public function run()
+        //guardar 20 registros
+        $arrays = range(0,20);
+        foreach ($arrays as $valor) {
+          DB::table('datos_personales')->insert([	            
+              'Nombre' => Str::random(10),
+              'Apellido' => Str::random(10),
+              'Edad' => rand(1, 99),
+          ]);
+
+
+https://styde.net/aprende-a-usar-eloquent-el-orm-de-laravel/
+fillable
+
+Bueno
+https://www.ecodeup.com/como-crear-un-crud-en-laravel-5-5-desde-cero/
+php artisan make:migration create_libros_table
+
+
+
+Mini Sistemas Operativos
+https://mega.nz/folder/y8sGFQ6b#Hl7JJYrWziH48yC5JLrWuA
+
+https://www.behance.net
+
+https://a3.wolterskluwer.es
+
+sketch
+
+https://cloudvideo.tv/ ganar dinero subiendo videos
+
+https://sellfy.com/pricing/ modo de pago
+
+https://richos.gitbooks.io/laravel-5/content/capitulos/chapter9.html
+https://demo.dolibarr.org/public/demo/index.php
+
+https://symu.co/freebies/mobile-apps/ventas-mobile-app-psd/
+
+https://es.aliexpress.com/item/32556260814.html?storeId=207463&spm=a219c.search0604.3.16.19207e64MwnKcq&s=p&ws_ab_test=searchweb0_0%2Csearchweb201602_5_10065_10068_319_10059_10884_317_10887_10696_321_322_10084_453_10083_454_10103_10618_10307_537_536%2Csearchweb201603_52%2CppcSwitch_0&algo_expid=4b8d60bd-cc9b-42fb-b2ed-28030c407884-2&algo_pvid=4b8d60bd-cc9b-42fb-b2ed-28030c407884
+
+www.intercambiosvirtuales.org
+https://forums.cubecart.com/topic/51120-resolved-trouble-with-outgoing-email/
+
+
+https://www.crearlogogratisonline.com/crear-logo-propio/category.html?category=it&page=16
+https://www.designfreelogoonline.com/freelogomaker/technology-logos/page/7/
+
+Para cuando desde una PC no pueda ingresar a la base de datos MySQL
+GRANT ALL PRIVILEGES ON *.* TO root@'%' IDENTIFIED BY 'pass';
+
+https://sermuymujer.com/belleza/elimina-la-papada-en-7-dias-remedio-eficaz-y-natural/
+
+Hola lo solucione de la siguiente forma:
+Lo primero, en la base de datos de MySQL el campo en la tabla que se encargara de almacenar la informacion lo 
+deje de tipo longblob 
+Lo segundo es cambiar en la configuracion el archivo my.ini el pa
+rámetro max_allowed_packet, 
+el cual nos permite acomodarlo según la cantidad de datos que se permiten enviar para almacenar 
+en el campo para tal fin.   Yo en mi caso lo he dejado en max_allowed_packet = 10M, mas que suficiente.
+
+Después de esto con un código como este:
+
+	cvfile = FILETOSTR(GETFILE("PNG"))  && o "DOC" o "DOCX"  AQUI CAPTURO EL ARCHIVO
+	cid = 4 && registro numero 4 por defecto.
+	TEXT TO VQuery NOSHOW
+		UPDATE mitabla SET campo = ?cvfile WHERE registro = ?cid
+	ENDTEXT
+	cmd = SQLEXEC(lnHandle,VQuery)
+
+.... me almacena el archivo en el campo de la tabla de la base de datos de MySQL,,,, 
+luego puedo restaurarlo en un proceso inverso.. 
+
+Saludos.. 
+
+C:\Users\AOP-SIS10\AppData\Local\Microsoft\Windows\INetCache\Content.MSO
+
+SELECT lugar,actividad,fecha,hinicio,hfinal FROM eventos WHERE str_to_date('10/06/2009','%d/%m/%Y')
+and lugar='Salon Comunal' and
+(
+DATE_ADD(CAST(CONCAT(STR_TO_DATE('10/06/2009','%d/%m/%Y'),' ','05:14:00') AS DATETIME),INTERVAL 1 MINUTE) <= CAST(CONCAT(fecha,' ',hfinal) AS DATETIME) 
+AND 
+DATE_SUB(CAST(CONCAT(STR_TO_DATE('10/06/2009','%d/%m/%Y'),' ','06:01:00') AS DATETIME),INTERVAL 1 MINUTE) >= CAST(CONCAT(fecha,' ',hinicio) AS DATETIME)
+);
+
+MYSQL - Consulta con varias tablas
+https://es.stackoverflow.com/questions/41696/select-a-varias-tablas-en-mysql
+
+
+Jordy - Ma Petite Soeur
+Familia ingalls clave: famingallslatino.wordpress.com
+shape of water: clave: www.mega-mkv.com
+
+http://demo.themecanyon.org/transpro/#
+
+    ?[ Error: ] + STR(oException.ErrorNo)
+    ?[ Linea: ] + STR(oException.LineNo)
+    ?[ Mensaje: ] + oException.Message
+    ?[ Procedure: ] + oException.Procedure
+    ?[ Detalle: ] + oException.Details
+    ?[ Nivel Pila : ] + STR(oException.StackLevel)
+    ?[ Contenido Linea: ] + oException.LineContents
+
+house of card4: clave solopormega.com
+
+1,439.68 Saldo BN
+https://www.constantcontact.com/index.jsp -- Enviar correos mismo Zk Latinoamerica
+https://obedalvarado.pw - Desarrollador de paginas Web
+https://www.udemy.com/ subir soporte de sistemas
+
+
+Contraseña
+hackstore.net
+
+clave de peliculas: peliculas-hdlatino.blogspot.com.co
+
+FlippingBook Publisher
+
+
+tblFichadas (idEmpleado, Fecha, HoraIngreso, HoraEgreso)
+A0001 01/01/2013 09:00 18:00
+A0002 01/01/2013 09:00 18:00
+A0003 01/01/2013 09:00 18:00
+A0001 02/01/2013 09:00 18:00
+A0002 02/01/2013 09:00 18:00
+A0001 03/01/2013 09:00 18:00
+A0002 03/01/2013 09:00 18:00
+A0001 04/01/2013 09:00 18:00
+A0002 04/01/2013 09:00 18:00
+A0003 04/01/2013 09:00 18:00
+A0001 05/01/2013 09:00 18:00
+A0002 05/01/2013 09:00 18:00
+A0003 05/01/2013 09:00 18:00
+
+tblLicencias (idEmpleado, FechaInicio, FechaFin, Motivo)
+A0003 02/01/2013 03/01/2013 Día por estudio
+
+Lo que necesito obtener sería lo siguiente
+Emitir un reporte entre los días 01/01/2013 y 04/01/2013
+A0001 01/01/2013 09:00 18:00
+A0002 01/01/2013 09:00 18:00
+A0003 01/01/2013 09:00 18:00
+A0001 02/01/2013 09:00 18:00
+A0002 02/01/2013 09:00 18:00
+A0003 02/01/2013 A A Día por estudio
+A0001 03/01/2013 09:00 18:00
+A0002 03/01/2013 09:00 18:00
+A0003 03/01/2013 A A Día por estudio
+A0001 04/01/2013 09:00 18:00
+A0002 04/01/2013 09:00 18:00
+A0003 04/01/2013 09:00 18:00 
+
+
+
+¡Víctor Raúl!¡Víctor Raúl! 	
+Compañero Víctor Raúl 	¡Presente!
+Haya o no Haya 	¡Haya será!
+Haya no ha muerto, vive con su pueblo! 	 
+El APRA es doctrina, de América Latina! 	 
+Haya y Sandino, seguimos su camino! 	 
+En la lucha… 	¡Hermanos!
+En el dolor… 	¡Hermanos!
+En la victoria… 	¡Hermanos!
+Cuando un aprista muere… 	¡Nunca muere!
+Cuando un revolucionario muere… 	¡Nunca muere!
+A más calumnias… 	¡Más Aprismo!
+Sólo el Aprismo… 	¡Salvará al Perú!
+¡El APRA nunca muere! 	 
+¡Este es el APRA, qué les parece! 	 
+Juventud… 	¡A la acción!
+
+https://javdoe.tv
+
+
+CONTRATO DE LICENCIA PARA EL USO DE SOFTWARE PROPIEDAD DE ZKTECO
+
+IMPORTANTE. LEA DETENIDAMENTE: este Contrato de Licencia “El PRODUCTO SOFTWARE" (ZK BIOSECURITY 3.0, ZKTIME.NET 3.0, ZK TIME WEB 2.0) constituye un acuerdo legal entre usted (sea persona física o persona jurídica) y el Proveedor respecto al producto software propiedad de El  Proveedor indicado arriba, que incluye software y puede incluir medios asociados, materiales impresos y documentación "en pantalla" o electrónica ("PRODUCTO SOFTWARE"). El PRODUCTO SOFTWARE incluye también todas las actualizaciones y suplementos del PRODUCTO SOFTWARE original que el Proveedor le proporcione. Todo software proporcionado junto con el PRODUCTO SOFTWARE que esté asociado con un contrato independiente de licencia para el usuario final y distribuidor se le concede en licencia bajo los términos de este documento. Al instalar, copiar, descargar, tener acceso o de otra manera utilizar el PRODUCTO SOFTWARE, usted acepta los términos de este ZKTECO. Si no acepta los términos de este documento, no instale ni use el PRODUCTO SOFTWARE; por el contrario, devuélvalo al lugar donde lo adquirió.
+
+LICENCIA DEL PRODUCTO SOFTWARE
+
+El PRODUCTO SOFTWARE está protegido por leyes y por tratados internacionales en materia de derechos de autor, así como por otras leyes y tratados sobre propiedad intelectual. El PRODUCTO SOFTWARE se concede en licencia y precio estipulado.
+
+    OTORGAMIENTO Y ENTREGA DE LICENCIA.
+
+Este le otorga los siguientes derechos:
+
+    Software Administrati Puede instalar, utilizar, tener acceso, mostrar, distribuir, ejecutar o de otra manera interactuar el PRODUCTO SOFTWARE o cualquier versión anterior del mismo en un solo sistema operativo, en un único equipo, estación de trabajo, terminal, PC de mano u otro dispositivo electrónico digital ("EQUIPO").
+    Reserva de derec El Proveedor se reserva todos los derechos que no se conceden expresamente.
+    El tiempo de entrega sobre la licencia será de 36 horas hábiles a partir de la entrega de la orden de compra por parte del distribuidor firmada, este lapso de tiempo iniciara a partir de recibir dicho documento.
+    La adquisición deberá ser realizada directamente con el personal de ventas del proveedor y representante de ventas, no se deberá pedir las licencias al personal técnico o de ingeniería.
+    En caso de crédito para obtener la liberación de la licencia el cliente deberá tener el documento o autorización para ejecutar o proceder con la creación de la licencia esto ayudara a tener una mayor eficaz y agilidad en la generación de las licencias de software.
+
+    DESCRIPCIÓN DE OTROS DERECHOS Y LIMITACIONES.
+
+    Limitaciones en materia de ingeniería inversa, descompilación y desensambla Usted no podrá utilizar técnicas de ingeniería inversa, descompilar, modificar, personalizar, ni desensamblar el PRODUCTO SOFTWARE, excepto y únicamente en la medida en que dicha actividad esté expresamente permitida por el fabricante mediante una carta de responsabilidad firmada por ambas partes, no obstante existirá la presente limitación.
+    Separación de compone El PRODUCTO SOFTWARE se concede con licencia como producto único. Sus partes componentes no pueden separarse para su utilización en más de un EQUIPO así como agregar logotipos.
+    Marcas comerciales: Este contrato no le concede ningún derecho en conexión con ninguna marca comercial o marca de servicio de El Proveedor.
+    Alquiler: Usted no podrá alquilar ni arrendar el PRODUCTO SOFTWARE sin el consentimiento expreso de parte del titular de este software.
+    Servicios de soporte téc El Proveedor podrá prestar servicios de soporte técnico para el PRODUCTO SOFTWARE ("Servicios de Soporte Técnico"). El uso de los Servicios de Soporte Técnico se rige por las normas y programas de El Proveedor que se describen en el manual del usuario, en la documentación "en pantalla" y en otros materiales proporcionados por El Proveedor. Todo código de software complementario que le sea proporcionado como parte de los Servicios de Soporte Técnico será considerado parte del PRODUCTO SOFTWARE y estará sujeto a los términos y condiciones de este contrato. La información técnica que usted proporcione a El  Proveedor como parte de los Servicios de Soporte Técnico podrá ser utilizada por El  Proveedor con fines comerciales, incluso para soporte y desarrollo de productos. El Proveedor no utilizará esa información técnica de manera que lo identifique a usted personalmente.
+    En caso de que se requiera desinstalar la licencia para cambiarla de computadora deberá enviar una carta responsiva a El Proveedor notificando los motivos del cambio requerido, así como la clave de registro para otorgarle una nueva clave. No podrán realizarse más de 1 cambio y este será debidamente analizado y autorizado únicamente por El Proveedor.
+    Terminación del contrato. Sin perjuicio de cualquier otro derecho, El Proveedor puede terminar este contrato si usted no cumple los términos y condiciones del mismo. En dicho caso, usted deberá destruir todas las copias del PRODUCTO SOFTWARE y todas las partes que lo componen.
+    El tiempo de garantía del este software será el estipulado por el proveedor este será de un máximo de un año, este periodo de garantía podrá ser extendido solamente en proyectos y magnitud de equipos.
+    La garantía del software quedara totalmente fuera en caso de que las características del PC no sean las recomendadas y las estipuladas por el proveedor.
+
+    ACTUALIZACIONES.
+
+Si el PRODUCTO SOFTWARE está marcado como actualización, deberá tener la licencia del producto identificado por El Proveedor como apto para la actualización con el fin de poder usar el PRODUCTO SOFTWARE marcado como actualización, sustitución o complementación. Usted podrá utilizar el producto actualizado resultante sólo de conformidad con los términos de este contrato. Si el PRODUCTO SOFTWARE es actualización de un componente de un paquete de programas de software adquirido por usted en licencia como producto único, el PRODUCTO SOFTWARE sólo podrá usarse y transferirse como parte de dicho paquete de producto único y no podrá separarse para ser utilizado en más de un EQUIPO. Solo tendrá derecho a obtener actualizaciones, mejoras, nuevas versiones o material impreso previo el pago de los cargos que para tales efectos El Proveedor tenga establecidos en ese entonces.
+
+    DERECHOS DE AUTOR.
+
+La titularidad y derechos de autor con respecto al PRODUCTO SOFTWARE (incluyendo, pero sin limitarse a, imágenes, fotografías, animaciones, vídeo, audio, música, texto o subprogramas incorporados al PRODUCTO SOFTWARE), los materiales impresos que lo acompañan y toda copia del PRODUCTO SOFTWARE son propiedad de El Proveedor. La titularidad y los derechos de propiedad intelectual correspondientes a los contenidos a los que se puede tener acceso mediante la utilización del PRODUCTO SOFTWARE es propiedad del respectivo propietario de los contenidos y puede estar protegido por las leyes y tratados sobre derechos de autor y propiedad intelectual aplicables. Este CLUF no le concede ningún derecho a utilizar dichos contenidos. Si este PRODUCTO SOFTWARE contiene documentación que se proporciona sólo en forma electrónica, puede imprimir una copia de dicha documentación electrónica. No podrá copiar los materiales impresos que acompañan al PRODUCTO SOFTWARE. 
+
+    SOFTWARE EN MEDIO DUAL.
+
+Es posible que usted reciba el PRODUCTO SOFTWARE en más de un medio. Independientemente del tipo o tamaño del medio que reciba, usted sólo podrá usar el medio que sea apropiado para su EQUIPO único. 
+
+    PÉRDIDA DE DATOS.
+
+El Proveedor no se hace responsable de la pérdida de datos  por cualquier omisión o borrado de los mismos por causa del sistema o del equipo de cómputo. Asimismo, no se hace de ninguna manera responsable por el mal uso del PRODUCTO SOFTWARE, las fallas derivadas del software de terceros, así como tampoco de las fallas derivadas por problemas del hardware o de las redes de cómputo, ni tampoco de las fallas derivadas por la infraestructura de energía eléctrica, ni de cualquier otra falla ajena al  PRODUCTO SOFTWARE. El   Proveedor no se responsabilizará en caso de que el PRODUCTO SOFTWARE sea instalado de manera incorrecta.
+
+    REQUERIMIENTOS MÍNIMOS.
+
+En caso de instalar en requerimientos totalmente ajenos a los especificados en la ficha informativa de este producto EL PROVEDOR no aplicara garantía alguna sobre el producto se recomienda leer la características del equipo de cómputo a instalar el producto.
+
+    BASE DE DATOS
+
+La manipulación en la base datos externa al producto software no entra en garantía así como en servicio por parte del fabricante en la misma por tratarse de un software externo o herramienta ajena y opcional, actualmente el PRODUCTO SOFTWARE brindara las opciones y beneficios de integración a motores de bases de datos de terceras empresa pero no asumirá la responsabilidad de la manipulación de las mismas por parte del cliente, por ende en todo aquel tema relacionado a manipulación de base de datos, el tema será definido por parte del departamento de servicio al cliente referente al soporte.
+
+
+
+
+
+
+
+TIPO DE VARIABLE VARCHAR
+                    <div class="form-group row m-b-15 align-items-center">
+                        <label class="col-sm-4 col-form-label">CODIGO</label>
+                        <div class="col-sm-8">
+                            <input class="form-control" maxlength="2" id="txt" name="txt" type="text" style="text-transform:uppercase;" placeholder="" data-parsley-required="true">
+                        </div>
+                    </div>
+
+TIPO DE VARIABLE DATETIME
+                    <div class="form-group row m-b-15 align-items-center">
+                        <label class="col-sm-4 col-form-label">FECHA</label>
+                        <div class="col-sm-8">
+                            <input class="form-control" type="text" id="dtpdguia_confirma_fecha" name="dtpdguia_confirma_fecha" data-parsley-required="true">
+                        </div>
+                    </div>
+
+TIPO DE VARIABLE DEPENDE DE OTRA TABLA
+                    <div class="form-group row m-b-15 form-row align-items-center">
+                        <label class="col-md-4 col-sm-4 col-form-label" for="cmbsdepartamento_codigo">DEPARTAMENTO</label>
+                        <div class="col-md-8 col-sm-8">
+                            <select class="selectpicker" data-size="10" data-live-search="true" data-style="btn-white" id="cmbsdepartamento_codigo" name="cmbsdepartamento_codigo" placeholder="" data-parsley-required="true"></select>
+                        </div>
+                    </div>
+
+
+TIPO DE VARIABLE NUMERICO
+                    <div class="form-group row m-b-15 align-items-center">
+                        <label class="col-sm-4 col-form-label">NRO DE VISITAS</label>
+                        <div class="col-sm-8">
+                            <input class="form-control" type="number" min="1" step="1" value = "1.00" id="spnsguia_confirma_veces_visita" name="spnsguia_confirma_veces_visita" placeholder="" data-parsley-required="false">
+                        </div>
+                    </div>
+
+TIPO DE VARIABLE BOOLEAN / CHAR(1)
+
+					<div class="form-group row m-b-15 align-items-center">
+						<div class="custom-control custom-switch">
+							<div class="col-sm-12">
+								<input type="checkbox" class="custom-control-input" id="chksguia_exclusivo" name="chksguia_exclusivo">
+								<label class="custom-control-label" for="chksguia_exclusivo">    EL DOCUMENTO ES EXCLUSIVO</label>
+							</div>
+						</div>
+					</div>
+
+($("#chksguia_exclusivo").is( ":checked" ) ? "1": "0") ;
+
+var psguia_fecha_recepcion = "";
+psguia_fecha_recepcion      = psguia_fecha_recepcion.concat(pdguia_fecha_recepcion.substr(6,4), pdguia_fecha_recepcion.substr(3,2), pdguia_fecha_recepcion.substr(0,2));
+
+
+
+$sub_array[] = '<button class="btn btn-outline-danger btn-icon btn-circle" onClick="mgrilla_item_eliminar(/' .$row["scodigo_aleatorio"]. '/);"  id="' . $row["scodigo_aleatorio"] . '" data-toggle="tooltip" title="Eliminar"><i class="fa fa-trash"></i></button>';
+
+
+
+
+	tblregistro_vista_data = $("#grdregistro_vista_data").dataTable({
+		"aProcessing": true,
+		"aServerSide": true,
+		dom: "Bfrtip",
+		"searching": true,
+		lengthChange: false,
+		colReorder: true,
+		buttons: [	
+			"copyHtml5",
+			"excelHtml5",
+			"csvHtml5",
+			{
+				extend: "pdfHtml5",
+				orientation: "landscape",
+				download: "open",
+				pageSize: "A4",
+				text: "PDF"
+			},
+			"colvis"
+		],
+		"ajax":{
+			url: "../../controller/arc_cliente.php?caso=ctrl_obtener_vista_00",
+			type : "post",
+			dataType : "json",
+			error: function(e){
+				console.log(e.responseText);
+			}
+		},
+        fixedColumns:   {
+            leftColumns: 1,
+            rightColumns: 1
+		},
+        "sScrollX": '100%',
+        "sScrollXInner": "120%",
+		"bDestroy": true,
+		"responsive": false,
+		"bInfo":true,
+		"iDisplayLength": 10,
+		"language": { "url": "//cdn.datatables.net/plug-ins/1.10.21/i18n/Spanish.json" }
+	}).DataTable();
+

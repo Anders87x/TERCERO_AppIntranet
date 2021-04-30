@@ -1,0 +1,12 @@
+CFG_usuario
+	- agregar campo susuario_clave_web varchar(250) DEFAULT MD5('123456')
+
+
+LOG_guia_manifiesto
+	- agregar campo nmanifiesto_dias_transito numeric(2) DEFAULT 0
+	- agregar campo smanifiesto_observacion varchar(250) DEFAULT ''
+
+
+LOG_guia
+	- agregar campo dguia_fecha_vencimiento datetime
+	- agregar campo dguia_fecha_retorno_limite datetime
